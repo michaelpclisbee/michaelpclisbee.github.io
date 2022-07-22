@@ -3,7 +3,7 @@
 
 - [Professional Self-Assessment] 
 
-- Informal Code Review:(https://youtu.be/gQ-wygnmFLA)
+- [Informal Code Review](https://youtu.be/gQ-wygnmFLA)
 
 - [ePortfolio Selection and Refinement Plan](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/ePortfolio%20Selection%20and%20Refinement%20Plan.docx)
 
