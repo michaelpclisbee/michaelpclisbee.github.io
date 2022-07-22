@@ -6,7 +6,9 @@ _Professional Portfolio_
 
 **2.  Informal Code Review:**(https://youtu.be/gQ-wygnmFLA)
 
-**3.  Artifacts:**
+**3.  [ePortfolio Selection and Refinement Plan]**
+
+**4.  Artifacts:**
         - Category I:   [Software Engineering and Design]
         - Category II:  [Algorithm and Data Structures]
         - Category III: [Databases]
