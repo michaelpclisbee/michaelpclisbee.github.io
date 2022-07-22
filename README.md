@@ -1,17 +1,16 @@
-## Michael Perry Clisbee
-_Professional Portfolio_
+##Professional Portfolio
 
 
-**1.  [Professional Self-Assessment]** 
+1.  [Professional Self-Assessment] 
 
-**2.  Informal Code Review:**(https://youtu.be/gQ-wygnmFLA)
+2.  Informal Code Review:(https://youtu.be/gQ-wygnmFLA)
 
-**3.  [ePortfolio Selection and Refinement Plan](https://github.com/michaelpclisbee/michaelpclisbee.github.io/edit/main/ePortfolio Selection and Refinement Plan.docx)**
+3.  [ePortfolio Selection and Refinement Plan](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/ePortfolio%20Selection%20and%20Refinement%20Plan.docx)
 
-**4.  Artifacts:**
-        - Category I:   [Software Engineering and Design]
-        - Category II:  [Algorithm and Data Structures]
-        - Category III: [Databases]
+4.  Artifacts:
+- Category I:   [Software Engineering and Design]
+- Category II:  [Algorithm and Data Structures]
+- Category III: [Databases]
 
 
 
