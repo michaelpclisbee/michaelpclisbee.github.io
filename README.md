@@ -1,4 +1,17 @@
-## Welcome to Michael Clisbee's GitHub Pages
+## Michael Perry Clisbee
+_Professional Portfolio_
+
+
+**[Professional Self-Assessment]** 
+
+**Informal Code Review:**(https://youtu.be/gQ-wygnmFLA)
+
+**Artifacts:**
+- Category I:   [Software Engineering and Design]
+- Category II:  [Algorithm and Data Structures]
+- Category III: [Databases]
+
+
 
 You can use the [editor on GitHub](https://github.com/michaelpclisbee/michaelpclisbee.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
