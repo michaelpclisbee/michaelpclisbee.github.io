@@ -2,14 +2,14 @@
 _Professional Portfolio_
 
 
-**[Professional Self-Assessment]** 
+**1.  [Professional Self-Assessment]** 
 
-**Informal Code Review:**(https://youtu.be/gQ-wygnmFLA)
+**2.  Informal Code Review:**(https://youtu.be/gQ-wygnmFLA)
 
-**Artifacts:**
-- Category I:   [Software Engineering and Design]
-- Category II:  [Algorithm and Data Structures]
-- Category III: [Databases]
+**3.  Artifacts:**
+        - Category I:   [Software Engineering and Design]
+        - Category II:  [Algorithm and Data Structures]
+        - Category III: [Databases]
 
 
 
