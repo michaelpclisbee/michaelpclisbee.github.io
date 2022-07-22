@@ -6,7 +6,7 @@ _Professional Portfolio_
 
 **2.  Informal Code Review:**(https://youtu.be/gQ-wygnmFLA)
 
-**3.  [ePortfolio Selection and Refinement Plan]**
+**3.  [ePortfolio Selection and Refinement Plan](https://github.com/michaelpclisbee/michaelpclisbee.github.io/edit/main/ePortfolio Selection and Refinement Plan.docx)**
 
 **4.  Artifacts:**
         - Category I:   [Software Engineering and Design]
