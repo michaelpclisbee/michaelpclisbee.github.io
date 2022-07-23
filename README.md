@@ -1,4 +1,4 @@
- ##Professional Portfolio
+#Professional Portfolio
  
 - [Professional Self-Assessment](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
 
@@ -16,7 +16,7 @@
     - [Enhancement II Code]()
     - [Enhancement II Narrative]()
 
-3.  Category III: Databases]
+3.  Category III: Databases
     - [Enhancement III Code]()
     - [Enhancement III Narrative]()
 
