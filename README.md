@@ -9,7 +9,7 @@
 
 - Artifact Enhancements:
 1.  Category I:   Software Engineering and Design
-    - [Enhancement I Code]()
+    - [Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Software%20Engineering%20and%20Design.docx)
     - [Enhancement I Narrative]()
 
 2.  Category II:  Algorithm and Data Structures
