@@ -9,16 +9,16 @@
 
 - Artifact Enhancements:
 1.  Category I:   Software Engineering and Design
-    - [Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Software%20Engineering%20and%20Design.docx)
-    - [Enhancement I Narrative]()
+    - [Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Software%20Engineering%20and%20Design.zip)
+    - [Enhancement I Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
 
 2.  Category II:  Algorithm and Data Structures
-    - [Enhancement II Code]()
-    - [Enhancement II Narrative]()
+    - [Enhancement II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Algorithm%20and%20Data%20Structures.zip)
+    - [Enhancement II Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%202%20Narrative.docx)
 
 3.  Category III: Databases
-    - [Enhancement III Code]()
-    - [Enhancement III Narrative]()
+    - [Enhancement III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Databases.zip)
+    - [Enhancement III Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%203%20Narrative.docx)
 
 
 
