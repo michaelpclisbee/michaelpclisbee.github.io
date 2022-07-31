@@ -1,4 +1,4 @@
-#Professional Portfolio
+**Professional Portfolio**
  
 - [Professional Self-Assessment](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
 
@@ -23,4 +23,4 @@
 
 
 
-**Bold** and _Italic_ and `Code` text
+
