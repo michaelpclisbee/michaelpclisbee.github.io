@@ -1,4 +1,8 @@
-**Professional Portfolio**
+This ePortfolio contains a narrated code review, an ePortfolio Selection and Refinement Plan, enhancements to existing work in three categories:  Software Design and Engineering, Algorithms and Data Structure, and Databases, narratives justifying each enhancement, and a professional Self Assessment. These artifacts were initially created over the life of my time completing the Computer Science program at Southern New Hampshire University (SNHU).  The resulting enhancements expand on the basic principles of each category, and are intended to showcase my abilities in each area.   
+
+
+- ![#f03c15](**Table of Contents**) `#f03c15`
+**Table of Contents**
  
 - [Professional Self-Assessment](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
 
@@ -7,7 +11,7 @@
 - [ePortfolio Selection and Refinement Plan](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/ePortfolio%20Selection%20and%20Refinement%20Plan.docx)
 
 
-- Artifact Enhancements:
+- **Artifact Enhancements:**
 1.  Category I:   Software Engineering and Design
         - [Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)
         - [Enhancement I Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
