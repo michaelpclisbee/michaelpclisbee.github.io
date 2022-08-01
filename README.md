@@ -8,16 +8,21 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 # text in gray
 @@ text in purple (and bold)@@
 ```
-**Table of Contents**
- 
-- [Professional Self-Assessment](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
+```diff
++Table of Contents
+ ```
+1. [Professional Self-Assessment](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
 
-- [Informal Code Review](https://youtu.be/gQ-wygnmFLA)
+2. [Informal Code Review](https://youtu.be/gQ-wygnmFLA)
 
-- [ePortfolio Selection and Refinement Plan](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/ePortfolio%20Selection%20and%20Refinement%20Plan.docx)
+3. [ePortfolio Selection and Refinement Plan](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/ePortfolio%20Selection%20and%20Refinement%20Plan.docx)
 
+4. [Category I: Software Engineering and Design: ][Code Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)[Narrative Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
 
-- **Artifact Enhancements:**
+5. [Category I: Algorithm and Data Structures] 
+
+6. [Category III: Databases] 
+
 1.  Category I:   Software Engineering and Design
         - [Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)
         - [Enhancement I Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
