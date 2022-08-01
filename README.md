@@ -9,7 +9,7 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 @@ text in purple (and bold)@@
 ```
 ```diff
-Table of Contents
++[Table of Contents]
  ```
 1. [Professional Self-Assessment] [Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
 2. [Informal Code Review] [Download](https://youtu.be/gQ-wygnmFLA)
