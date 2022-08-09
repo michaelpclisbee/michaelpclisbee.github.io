@@ -6,7 +6,7 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 ##Table of Contents
 
 
-- [Professional Self-Assessment] (#professional-self-assessment)
+- [Professional Self-Assessment] (#1.-professional-self-assessment)
 [(Download)](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
 - Informal Code Review [(Download)](https://youtu.be/gQ-wygnmFLA)
 - ePortfolio Selection and Refinement Plan [(Download)](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/ePortfolio%20Selection%20and%20Refinement%20Plan.docx)
@@ -24,7 +24,7 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 
 
 
-1.  ###Professional Self Assessment
+###1. Professional Self Assessment
 
 blah blah 
 
