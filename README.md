@@ -2,10 +2,12 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 
 
 
-```diff
-+Table of Contents
- ```
-- Professional Self-Assessment [(Download)](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
+
+##Table of Contents
+
+
+- [Professional Self-Assessment] (#professional-self-assessment)
+[(Download)](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
 - Informal Code Review [(Download)](https://youtu.be/gQ-wygnmFLA)
 - ePortfolio Selection and Refinement Plan [(Download)](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/ePortfolio%20Selection%20and%20Refinement%20Plan.docx)
 - Category I: Software Engineering and Design   
@@ -19,6 +21,13 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 - Category III: Databases
         - [Enhancement III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3_Databases.zip)
         - [Enhancement III Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%203%20Narrative.docx)
+
+
+
+1.  ###Professional Self Assessment
+
+blah blah 
+
 
 
 
