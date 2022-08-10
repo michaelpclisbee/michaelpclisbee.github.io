@@ -23,7 +23,7 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 
 
 
-## Professional Self Assessment(#table-of-contents)
+## [Professional Self Assessment](#table-of-contents)
 [(Download)](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
 
 This Professional Self-Assessment will serve as a summation of my experiences navigating through the Computer Science program at SNHU and introduce the artifacts chosen for my final project in the Capstone class of the SNHU Computer Science program.  Completing my coursework throughout the Computer Science Program over the last four years and developing an ePortfolio has helped to showcase my strengths and shape my professional goals and values and helped me to be more employable in the computer science field.  
