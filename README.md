@@ -1,3 +1,4 @@
+## Introduction
 This ePortfolio contains a narrated code review, an ePortfolio Selection and Refinement Plan, enhancements to existing work in three categories:  Software Design and Engineering, Algorithms and Data Structure, and Databases, narratives justifying each enhancement, and a professional Self Assessment. These artifacts were initially created over the life of my time completing the Computer Science program at Southern New Hampshire University (SNHU).  The resulting enhancements expand on the basic principles of each category, and are intended to showcase my abilities in each area.   
 
 
@@ -7,7 +8,7 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 
 
 * [Professional Self Assessment](#professional-self-assessment)
-* Informal Code Review [(Link)](https://youtu.be/gQ-wygnmFLA)
+* Informal Code Review [(YouTube Link)](https://youtu.be/gQ-wygnmFLA)
 * [ePortfolio Selection and Refinement Plan](#ePortfolio-selection-and-refinement-plan)
 * 
 * Category I: Software Engineering and Design   
@@ -24,7 +25,7 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 
 
 
-## [Professional Self Assessment](#table-of-contents)
+## [Professional Self Assessment](#Introduction)
 [(Download)](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Professional%20Self%20Assessment.docx)
 
 This Professional Self-Assessment will serve as a summation of my experiences navigating through the Computer Science program at SNHU and introduce the artifacts chosen for my final project in the Capstone class of the SNHU Computer Science program.  Completing my coursework throughout the Computer Science Program over the last four years and developing an ePortfolio has helped to showcase my strengths and shape my professional goals and values and helped me to be more employable in the computer science field.  
@@ -48,7 +49,7 @@ For the algorithms and data structures portion of the project, I chose to apply 
 For the databases portion of the final project, I applied what I learned in the CS-340 Advanced Programming Concepts course and enhanced a mongoDB based database written in Python that will interface with a Node JS application. This application provides a user-friendly interface that pulls data from a central .csv file, with the objective of helping a client identify good dog candidates for search and rescue training through a dynamic dashboard web application that can be run either with MongoDB or Jupyter Notebook.  I incorporated what I learned about mongoDB and added in enhanced functionality to the password interface for added access security, and expanded coding for data creation, alteration and deletion into an existing data structure.  This incorporated additional error notifications and loops to enhance error handling.  This portion demonstrates my skills with databases, as well as my ability to use Python.
 
 
-## [ePortfolio Selection and Refinement Plan](#table-of-contents)
+## [ePortfolio Selection and Refinement Plan](#Introduction)
 [(Download)](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/ePortfolio%20Selection%20and%20Refinement%20Plan.docx)
 
 
