@@ -8,7 +8,8 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 
 * [Professional Self Assessment](#professional-self-assessment)
 * Informal Code Review [(Link)](https://youtu.be/gQ-wygnmFLA)
-* [ePortfolio Selection and Refinement Plan](#ePortfolio-selection-and-refinement-plan)(https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/ePortfolio%20Selection%20and%20Refinement%20Plan.docx)
+* [ePortfolio Selection and Refinement Plan](#ePortfolio-selection-and-refinement-plan)
+* 
 * Category I: Software Engineering and Design   
         - [Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)
         - [Enhancement I Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
@@ -36,7 +37,7 @@ Multiple classes throughout this program involved data structure and algorithm c
 
 Overall, I was introduced to Python in CS-200, CS-250 taught about Scrum, I learned testing and its importance in CS-310. I learned how to incorporate Discrete Math, Stats, Calculus, Physics, and Linear Algebra into computer science as a whole. I gained knowledge on databases and analyzing data. I learned about computational graphics and design. I now understand how to use Python, C++, Java, and other useful applications. All of these skills learned with be essential when utilizing them in my future endeavors.
 
-** Final Portfolio Summary **
+**Final Portfolio Summary**
 
 For this project, I chose three artifacts that made the most educational impact on me. I selected projects that I really believe I would continue to use in my professional life after the requirements for this class were completed. From software design and testing to base algorithm coding for working data structures, and the creation of user-friendly databases centered on the client requirements, all of these artifacts fit together to create a fully rounded demonstration of skills and abilities learned throughout this program.  
 
