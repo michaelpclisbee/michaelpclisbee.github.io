@@ -10,9 +10,9 @@ This ePortfolio contains a narrated code review, an ePortfolio Selection and Ref
 * [Professional Self Assessment](#professional-self-assessment)
 * Informal Code Review [(YouTube Link)](https://youtu.be/gQ-wygnmFLA)
 * [ePortfolio Selection and Refinement Plan](#ePortfolio-selection-and-refinement-plan)
-* [Category I: Software Engineering and Design] (#ePortfolio-selection-and-refinement-plan)  
-* [Category II: Algorithm and Data Structures] (#ePortfolio-selection-and-refinement-plan)
-* [Category III: Databases] (#ePortfolio-selection-and-refinement-plan)
+* [Category I: Software Engineering and Design](#ePortfolio-selection-and-refinement-plan)  
+* [Category II: Algorithm and Data Structures](#ePortfolio-selection-and-refinement-plan)
+* [Category III: Databases](#ePortfolio-selection-and-refinement-plan)
 
 
 ## [Professional Self Assessment](#Introduction)
