@@ -50,7 +50,7 @@ For the databases portion of the final project, I applied what I learned in the 
 
 
 
-* Category I:   Software Engineering and Design
+## [Category I: Software Engineering and Design](#Introduction)
         - [Original I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1%20Initial.zip)    
         - [Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)
         - [Enhancement I Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
@@ -64,7 +64,7 @@ For the databases portion of the final project, I applied what I learned in the 
 </details>
 
 
-* Category II:  Algorithm and Data Structures
+## [Category II: Algorithm and Data Structures](#Introduction)
         - [Original II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2%20Initial.zip) 
         - [Enhancement II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2_Algorithm%20and%20Data%20Structures.zip)
         - [Enhancement II Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%202%20Narrative.docx)
@@ -76,7 +76,7 @@ For Artifact two in Category Two:  Algorithms and Data Structures, I selected wo
 </details>
 
 
-* Category III: Databases
+## [Category III: Databases](#Introduction)
         - [Original III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3%20Initial.zip)
         - [Enhancement III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3_Databases.zip)
         - [Enhancement III Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%203%20Narrative.docx)        
