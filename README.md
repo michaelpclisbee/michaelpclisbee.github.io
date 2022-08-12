@@ -67,9 +67,12 @@ For the databases portion of the final project, I applied what I learned in the 
 
 
 ## [Category II: Algorithm and Data Structures](#Introduction)
-        - [Original II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2%20Initial.zip) 
-        - [Enhancement II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2_Algorithm%20and%20Data%20Structures.zip)
-        - [Enhancement II Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%202%20Narrative.docx)
+-[Original II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2%20Initial.zip) 
+
+-[Enhancement II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2_Algorithm%20and%20Data%20Structures.zip)
+
+-[Enhancement II Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%202%20Narrative.docx)
+
 <details><summary>CLICK TO EXPAND</summary>
 <p>
 For Artifact two in Category Two:  Algorithms and Data Structures, I selected work done in CS250 – Software Development LifeCycle (SDLC), which focuses on the Agile team roles and how their teamwork results in an overall rounded functional Java application where the code includes added functionality and imagery for a better user experience.  My enhancement plan includes expanding the current API complexity of my TopFiveTravelDestination.java and SlideShow.java files with added resource folder imagery to give the user a better visual experience viewing destination information through a simple GUI that is user friendly.  This was done through the enhancement of current Java code to include better code documentation to elaborate on code functionality resulting in minimal errors and a fluid transition between screens.  This demonstrates knowledge and skills gained in the use of Java coding to create simple applications that the user can easily manipulate but not corrupt.   Code was altered and tested using Java IDE, XCode application and Terminal applications for Mac.
@@ -79,9 +82,12 @@ For Artifact two in Category Two:  Algorithms and Data Structures, I selected wo
 
 
 ## [Category III: Databases](#Introduction)
-        - [Original III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3%20Initial.zip)
-        - [Enhancement III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3_Databases.zip)
-        - [Enhancement III Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%203%20Narrative.docx)        
+-[Original III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3%20Initial.zip)
+
+-[Enhancement III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3_Databases.zip)
+
+-[Enhancement III Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%203%20Narrative.docx) 
+
 <details><summary>CLICK TO EXPAND</summary>
 <p>
 For Artifact three in Category Three:  Databases, I will select work done in CS340 – Advanced Programming Concepts in Client/Server Development.  For this course I initially created a dynamic dashboard linking several databases in the Jupyter Notebook using .csv, .py, and .ipynb Python and Javascript language files in MongoDB.  The key databases to be used will be ProjectTwoDashboard.ipynb and Animal_App.py, with a aac_shelter_outcomes.csv file.  The objective is to apply database systems concepts and principles to create a client/server database application that interfaces with client-side code.  This will pull data to display geo-mapping, statistics, and other user data from a database powered by MongDB.  My enhancement plan will include expanding on the current MongoDB API (application programming interface) via JavaScript to make it more user friendly, as well as provide more selection options through improving on my current project code.  This includes enhancing CRUD (create, read, update, delete) elements of my code.  This will demonstrate skills learned in Python code when creating user interfaces and efficient CRUD implementation.  As shown below in the Behavior Model, the database will be improved upon to have more input options which in turn will have more varied results.
