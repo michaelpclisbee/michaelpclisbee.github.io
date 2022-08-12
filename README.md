@@ -50,49 +50,41 @@ For the databases portion of the final project, I applied what I learned in the 
 
 
 
-1.  Category I:   Software Engineering and Design
+*Category I:   Software Engineering and Design
         - [Original I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1%20Initial.zip)    
         - [Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)
         - [Enhancement I Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
  
 <details><summary>CLICK TO EXPAND</summary>
 <p>
- 
-For Category One: Software Engineering/Design, I selected work done in CS320 – Software Testing, Automation and Quality Assurance, which focuses on locating and resolving software security vulnerabilities by creating secure code and testing procedures to locate issues before code implementation.   My enhancement plan included expanding the complexity of my Unit Test files created in Java and edited and implemented using Visual Studio, Terminal and XCode.  In addition, enhancements were made to the associated ContactTest.java and ContactServiceTest.java files linked to their respective java files.  This demonstrated skills learned in altering Java code to be more secure, as well as in the creation of efficient test files, created specifically for their respective java files for testing.  As seen in the Structural Model representation below, each unit test requirement has attributes and methods included which complete the process or unit test needs.
+ For Artifact One in Category One: Software Engineering/Design, I selected work done in CS320 – Software Testing, Automation and Quality Assurance, which focuses on locating and resolving software security vulnerabilities by creating secure code and testing procedures to locate issues before code implementation.   My enhancement plan included expanding the complexity of my Unit Test files created in Java and edited and implemented using Visual Studio, Terminal and XCode.  In addition, enhancements were made to the associated ContactTest.java and ContactServiceTest.java files linked to their respective java files.  This demonstrated skills learned in altering Java code to be more secure, as well as in the creation of efficient test files, created specifically for their respective java files for testing.  As seen in the Structural Model representation below, each unit test requirement has attributes and methods included which complete the process or unit test needs.
 ![StructuralModel](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/StructuralModel.png)
     
  </p>
 </details>
 
 
-2.  Category II:  Algorithm and Data Structures
+*Category II:  Algorithm and Data Structures
         - [Original II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2%20Initial.zip) 
         - [Enhancement II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2_Algorithm%20and%20Data%20Structures.zip)
         - [Enhancement II Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%202%20Narrative.docx)
-
 <details><summary>CLICK TO EXPAND</summary>
 <p>
-
-For Category Two:  Algorithms and Data Structures, I selected work done in CS250 – Software Development LifeCycle (SDLC), which focuses on the Agile team roles and how their teamwork results in an overall rounded functional Java application where the code includes added functionality and imagery for a better user experience.  My enhancement plan includes expanding the current API complexity of my TopFiveTravelDestination.java and SlideShow.java files with added resource folder imagery to give the user a better visual experience viewing destination information through a simple GUI that is user friendly.  This was done through the enhancement of current Java code to include better code documentation to elaborate on code functionality resulting in minimal errors and a fluid transition between screens.  This demonstrates knowledge and skills gained in the use of Java coding to create simple applications that the user can easily manipulate but not corrupt.   Code was altered and tested using Java IDE, XCode application and Terminal applications for Mac.
+For Artifact two in Category Two:  Algorithms and Data Structures, I selected work done in CS250 – Software Development LifeCycle (SDLC), which focuses on the Agile team roles and how their teamwork results in an overall rounded functional Java application where the code includes added functionality and imagery for a better user experience.  My enhancement plan includes expanding the current API complexity of my TopFiveTravelDestination.java and SlideShow.java files with added resource folder imagery to give the user a better visual experience viewing destination information through a simple GUI that is user friendly.  This was done through the enhancement of current Java code to include better code documentation to elaborate on code functionality resulting in minimal errors and a fluid transition between screens.  This demonstrates knowledge and skills gained in the use of Java coding to create simple applications that the user can easily manipulate but not corrupt.   Code was altered and tested using Java IDE, XCode application and Terminal applications for Mac.
 ![StructuralModel](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/StructuralModel.png)
-
- </p>
+</p>
 </details>
 
 
-3.  Category III: Databases
+*Category III: Databases
         - [Original III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3%20Initial.zip)
         - [Enhancement III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3_Databases.zip)
         - [Enhancement III Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%203%20Narrative.docx)        
-
 <details><summary>CLICK TO EXPAND</summary>
 <p>
-
-For Category Three:  Databases, I will select work done in CS340 – Advanced Programming Concepts in Client/Server Development.  For this course I initially created a dynamic dashboard linking several databases in the Jupyter Notebook using .csv, .py, and .ipynb Python and Javascript language files in MongoDB.  The key databases to be used will be ProjectTwoDashboard.ipynb and Animal_App.py, with a aac_shelter_outcomes.csv file.  The objective is to apply database systems concepts and principles to create a client/server database application that interfaces with client-side code.  This will pull data to display geo-mapping, statistics, and other user data from a database powered by MongDB.  My enhancement plan will include expanding on the current MongoDB API (application programming interface) via JavaScript to make it more user friendly, as well as provide more selection options through improving on my current project code.  This includes enhancing CRUD (create, read, update, delete) elements of my code.  This will demonstrate skills learned in Python code when creating user interfaces and efficient CRUD implementation.  As shown below in the Behavior Model, the database will be improved upon to have more input options which in turn will have more varied results.
-
+For Artifact three in Category Three:  Databases, I will select work done in CS340 – Advanced Programming Concepts in Client/Server Development.  For this course I initially created a dynamic dashboard linking several databases in the Jupyter Notebook using .csv, .py, and .ipynb Python and Javascript language files in MongoDB.  The key databases to be used will be ProjectTwoDashboard.ipynb and Animal_App.py, with a aac_shelter_outcomes.csv file.  The objective is to apply database systems concepts and principles to create a client/server database application that interfaces with client-side code.  This will pull data to display geo-mapping, statistics, and other user data from a database powered by MongDB.  My enhancement plan will include expanding on the current MongoDB API (application programming interface) via JavaScript to make it more user friendly, as well as provide more selection options through improving on my current project code.  This includes enhancing CRUD (create, read, update, delete) elements of my code.  This will demonstrate skills learned in Python code when creating user interfaces and efficient CRUD implementation.  As shown below in the Behavior Model, the database will be improved upon to have more input options which in turn will have more varied results.
 ![BehavioralModel](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/BehavioralModel.png?raw=true)
-
- </p>
+</p>
 </details>
 
 ## [ePortfolio Summary](#Introduction)
