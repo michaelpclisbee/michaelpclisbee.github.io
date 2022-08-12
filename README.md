@@ -89,12 +89,13 @@ For Category Two:  Algorithms and Data Structures, I selected work done in CS250
 <p>
 
 For Category Three:  Databases, I will select work done in CS340 – Advanced Programming Concepts in Client/Server Development.  For this course I initially created a dynamic dashboard linking several databases in the Jupyter Notebook using .csv, .py, and .ipynb Python and Javascript language files in MongoDB.  The key databases to be used will be ProjectTwoDashboard.ipynb and Animal_App.py, with a aac_shelter_outcomes.csv file.  The objective is to apply database systems concepts and principles to create a client/server database application that interfaces with client-side code.  This will pull data to display geo-mapping, statistics, and other user data from a database powered by MongDB.  My enhancement plan will include expanding on the current MongoDB API (application programming interface) via JavaScript to make it more user friendly, as well as provide more selection options through improving on my current project code.  This includes enhancing CRUD (create, read, update, delete) elements of my code.  This will demonstrate skills learned in Python code when creating user interfaces and efficient CRUD implementation.  As shown below in the Behavior Model, the database will be improved upon to have more input options which in turn will have more varied results.
-![BehavioralModel](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/BehavioralModel.png)
+
+![BehavioralModel](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/BehavioralModel.png?raw=true)
 
  </p>
 </details>
 
-## [ePortfolio Overall](#Introduction)
+## [ePortfolio Summary](#Introduction)
 By fulfilling my enhancement plans, i will demonstrate skills learned in the languages of Java and Python that I would apply toward improving on my current code and using that knowledge to improve on the various API the code is controlling.  Namely the ability to create effective test files for their respective java files to ensure they function correctly.  As well, creating detailed CRUD functionality, adding Create, Read, Update and Delete functionality with safeguards included.  The only limitations I can see would be the lack of full expert knowledge in these languages which will hinder the code from being as expansive as it should be.  As well, if how are each of these to be demonstrated or presented in the GitHub site without access to specific applications.  They are not stand-alone apps and have to be run within their associated programs.  The only thing that will be viewed would be the source code itself.  
 
 
