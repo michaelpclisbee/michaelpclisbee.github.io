@@ -52,8 +52,8 @@ For the databases portion of the final project, I applied what I learned in the 
 
 ## [Category I: Software Engineering and Design](#Introduction)
 [Original I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1%20Initial.zip)    
-[Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)
-[Enhancement I Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
+-[Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)
+-[Enhancement I Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
  
 <details><summary>CLICK TO EXPAND</summary>
 <p>
