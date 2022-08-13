@@ -115,9 +115,11 @@ The TopFiveDestinationList.java and SlideShow.Java files were selected to be inc
 
 The code below demonstrates the insertion of imagery and text linked to images in the resource file, using if/else statements to determine which image to display.  This is code from SlideShow.java.  The two data structures shown are used to store image and image sizing data.  This was enhanced to pull in images from the resource file and define their measurements.  These are the Methods to get the images and text.  It also links to imagery in the resource file folder.  The button code pulls back to this structure, determining which image and text to display.
 
-![image](https://user-images.githubusercontent.com/73085066/184497108-a608e49f-2950-432c-8931-f5b41d139078.png)
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/73085066/184497568-c412308d-b676-43a2-bff8-25dfd009889e.png">
 
-The code below displays Previous and Next Button algorithms, along with logic that is uses to determine the image and text slides to display:
+
+The code below displays Previous and Next Button algorithms, along with logic that is uses to determine the image and text slides to display.
+
 
 <img width="329" alt="image" src="https://user-images.githubusercontent.com/73085066/184497296-3ba037ff-c637-4c35-a711-0d772b74e344.png">
 
@@ -127,6 +129,29 @@ The code below displays Previous and Next Button algorithms, along with logic th
 
 
 The algorithm created to add each of the slides and text as seen here sets parameters for the Previous and Next buttons, adding to their functionality.  this segment of code which uses a postfix increment operator that assigns a number first then adds one to the given value incrementally.  This algorithm is then linked to the previous and next buttons which identify which number the increment operator assigned and uses that number to pull from both data structures and combine them into one slide frame. The initComponent method has this segment of code below as an algorithm which identifies which number the increment operator assigned, by using both the previous and next buttons, determine the line number to pull from both data structures and combine them into one slide frame.  Previous Button Functionality Is linked to the previous code to add functionality. It will use the increment operator to go back one number from the currently assigned one, then go back to the previous pane.
+
+<img width="212" alt="image" src="https://user-images.githubusercontent.com/73085066/184497641-47602be4-40a9-4244-8c13-f53962ab077f.png">
+
+<img width="212" alt="image" src="https://user-images.githubusercontent.com/73085066/184497664-b6a2d7ae-2e4b-433b-b518-f05dc6b423cb.png">
+
+Above are examples of the results of the code, with various vacation destinations displayed, along with descriptive text, a title for the program, and functional buttons allowing the client to scan through all the slideshow pages.
+
+![image](https://user-images.githubusercontent.com/73085066/184497685-4d0cbc0e-29f3-40a4-9812-534ed985614a.png)
+
+The code above shows that Eclipse IDE environment was used to enhance data structure code for the TopFiveDestinationList.java file.  This was also used to convert both java files to runnable jar files that you can open without the necessity of using an IDE or other environment. The enhancements met my goals for overall improvements as it increased functionality in several different areas as determined in the Code Review.   The objective is to identify, enhance and comment on data structures in the code and their associated algorithms. Data structures are used to store and organize data.  The identified algorithms are used to manipulate the data in their associated structures.
+
+The two data structures in the SlideShow.java file are identified as:
+
+a.  The getResizeIcon method, which is used to store image and image sizing data.  This was enhanced to pull in images from the resource file.  
+b.  The getTextDescription method, which is used to store descriptive data for each image.  
+I believe this embodies several categories of improvement, showing emerging abilities as indicators of success.  
+The two associated algorithms in the SlideShow.java file are identified as:
+
+a.  The initComponent method has a segment of code which  uses a postfix increment operator that assigns a number first then adds one to the given value incrementally.  This algorithm is pulls from the two data structures to determine which data to pull from it and display.  
+b.  The second associated algorithm originates from the same initComponent method, where the code has the button action identify which number the increment operator assigned, and uses that to pull from both data structures and combine them into one slide frame. The button algorithm will determine whether to subtract one number from the postfix increment operator or add one number, depending on the button activated, then go to the next or previous slide and text pane.
+
+When modifying the artifact, I once again did a lot of code cross referencing online through stackoverflow.com and other sites to better understand the purpose of the different assert methods, and how to implement them.  I understand these sites give examples of code that are not necessarily correct, so code I used needed to be adjusted to be functional.  This was a great learning tool for me.  However, code used in the Slideshow.java file was more functional than its counterpart TopFiveDestinationList.java, but I have included both files to demonstrate the differences in workable functionality.  For this class, I could not access a virtual environment previously supplied by SNHU, so instead again used available software such as XCode to view and alter as necessary.  This code was then placed into a downloaded version of Eclipse IDE for Mac, where I could further alter code, then create a runnable jar file in addition to the saved java file.  
+
 
 </p>
 </details>
