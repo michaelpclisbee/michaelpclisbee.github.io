@@ -51,11 +51,11 @@ For the databases portion of the final project, I applied what I learned in the 
 
 
 ## [Category I: Software Engineering and Design](#Introduction)
--[Original I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1%20Initial.zip)  
+-[Original I Code Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1%20Initial.zip)  
 
--[Enhancement I Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)
+-[Enhancement I Code Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat1_Software%20Engineering%20and%20Design.zip)
 
--[Enhancement I Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
+-[Enhancement I Narrative Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%201%20Narrative.docx)
  
 <details><summary>CLICK TO EXPAND</summary>
 <p>
@@ -95,11 +95,11 @@ Documentation was added for each @test to ensure other developers will understan
 
 
 ## [Category II: Algorithm and Data Structures](#Introduction)
--[Original II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2%20Initial.zip) 
+-[Original II Code Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2%20Initial.zip) 
 
--[Enhancement II Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2_Algorithm%20and%20Data%20Structures.zip)
+-[Enhancement II Code Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat2_Algorithm%20and%20Data%20Structures.zip)
 
--[Enhancement II Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%202%20Narrative.docx)
+-[Enhancement II Narrative Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%202%20Narrative.docx)
 
 <details><summary>CLICK TO EXPAND</summary>
 <p>
@@ -161,18 +161,58 @@ When modifying the artifact, I once again did a lot of code cross referencing on
 
 
 ## [Category III: Databases](#Introduction)
--[Original III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3%20Initial.zip)
+-[Original III Code Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3%20Initial.zip)
 
--[Enhancement III Code](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3_Databases.zip)
+-[Enhancement III Code Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Cat3_Databases.zip)
 
--[Enhancement III Narrative](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%203%20Narrative.docx) 
+-[Enhancement III Narrative Download](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/Category%203%20Narrative.docx) 
 
 <details><summary>CLICK TO EXPAND</summary>
 <p>
 For Artifact three in Category Three:  Databases, I will select work done in CS340 – Advanced Programming Concepts in Client/Server Development.  For this course I initially created a dynamic dashboard linking several databases in the Jupyter Notebook using .csv, .py, and .ipynb Python and Javascript language files in MongoDB.  The key databases to be used will be ProjectTwoDashboard.ipynb and Animal_App.py, with a aac_shelter_outcomes.csv file.  The objective is to apply database systems concepts and principles to create a client/server database application that interfaces with client-side code.  This will pull data to display geo-mapping, statistics, and other user data from a database powered by MongDB.  My enhancement plan will include expanding on the current MongoDB API (application programming interface) via JavaScript to make it more user friendly, as well as provide more selection options through improving on my current project code.  This includes enhancing CRUD (create, read, update, delete) elements of my code.  This will demonstrate skills learned in Python code when creating user interfaces and efficient CRUD implementation.  As shown below in the Behavior Model, the database will be improved upon to have more input options which in turn will have more varied results.
-![BehavioralModel](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/BehavioralModel.png?raw=true)
+
+<img width="234" alt="image" src="https://user-images.githubusercontent.com/73085066/184498191-e5cace9c-acd1-4c05-bf4f-0d566b0be59e.png">
+
+**Narrative**
+
+This artifact is an application the purpose of which is to provide a user-friendly interface to pull information from a database written in Python and powered by MongoDB, to retrieve information from animals, namely dogs, and update or alter same database.  The objective of this project is to create a database, an API and a dynamic dashboard with the dashboard a web application designed for the client to identify good dog candidates for search and rescue training.    This was originally created in the CS 340 SNHU course for Advanced Programming Concepts, with minimal functionality and no security.
+
+This project can be used to query MongoDB by creating and reading data from MongoDB.  For the purposes of this milestone, it was altered and run via Jupyter Notebook, as well as the XCode application.  Jupyter Notebook was accessed for Mac via the Anaconda.Navigator application.  
+
+This artifact was selected to represent Category 3:  Databases, as it represents what a fully structured database and its code can do, from an effective API and a base data file to CRUD functionality that enables the creation, readability, update capability and delete functionality, all of which are essential in creating a functional database.  Some specific components that showcase skills learned would include enhancements to the password interface for added security, expanded coding for data creation and insertion into existing .csv file, expanded search functions in the ReadData operation to effectively search for existing data and display it, expanded update operations with easy to understand input keys to include error notifications and if/else loops, and delete functionality to include error notifications and if/else loops to eliminate  existing data.
+
+The enhancements met my goals for overall improvements as it increased functionality in several different areas as determined in the Code Review.   The objective for this milestone is to identify, enhance and comment on the database elements and structures involved with maintaining and updating it.  My goal was to make it an entirely functional database, but am still working on the unique password to username coding as well as the visual displays which are not populating due to minor coding errors.
+
+When modifying the artifact, I did code referencing online to get ideas on how best to create a polished code.  I learned several ways of writing the CRUD functionality to try and cover all possible errors, as well as how detailed the dashboard code needed to be to provide any sort of functionality.  However, one of the challenges I faced was understanding certain coding aspects that would help me correct some errors that popped up.  I think that if this had a peer review element to it, having the perspective of several other developers’ opinions would go a long way towards making this program fully functional. 
+
+
+**Artifact II Code**
+
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/73085066/184498357-5bc97f1b-1bd9-445c-afc7-488f4698ac37.png">
+
+The aac_shelter_outcomes.csv file is central to the mission of the database program.  Here is existing data that will be either adjusted, deleted, added to, or searched through as long as the base code works as needed.  Below is an example initial and final code enhancements for the C operation for C in CRUD, to create new lines of data in the .csv file. Initial code before enhancement for Create...
+
+![image](https://user-images.githubusercontent.com/73085066/184498406-308837a5-d399-4f17-afcd-668c9ea5537e.png)
+
+Created code after enhancements that involved adding code to ensure user enters correct data fields.  The first part of the Create code collects the data, while the second part validates and inserts results, or issues Exceptions via if/else statements.
+
+![image](https://user-images.githubusercontent.com/73085066/184498451-bf53cac8-6cb6-4f16-ae77-4cea0bcdf073.png)
+
+The following Code adds security to application by adding username and password requirements.  Still need to work out so unique passwords can be saved per username. 
+
+<img width="264" alt="image" src="https://user-images.githubusercontent.com/73085066/184498461-59567e9a-51ee-42a6-9075-2062630797d9.png">
+
+This is part of the final dashboard code that includes unique client logo, dashboard title and radio items to select rescue filters based on the client requirements. This code can be altered to meet client needs.  
+
+The Dashboard code is set up to collect all data and depending on data selected, create a specific pie chart and geolocation chart.  This code is still being perfected, so cannot be displayed currently. 
+
+<img width="282" alt="image" src="https://user-images.githubusercontent.com/73085066/184498504-d796b08b-371f-4386-8e8b-c5970898614a.png">
+
+
 </p>
 </details>
+
+
 
 ## [ePortfolio Summary](#Introduction)
 By fulfilling my enhancement plans, i will demonstrate skills learned in the languages of Java and Python that I would apply toward improving on my current code and using that knowledge to improve on the various API the code is controlling.  Namely the ability to create effective test files for their respective java files to ensure they function correctly.  As well, creating detailed CRUD functionality, adding Create, Read, Update and Delete functionality with safeguards included.  The only limitations I can see would be the lack of full expert knowledge in these languages which will hinder the code from being as expansive as it should be.  As well, if how are each of these to be demonstrated or presented in the GitHub site without access to specific applications.  They are not stand-alone apps and have to be run within their associated programs.  The only thing that will be viewed would be the source code itself.  
