@@ -59,8 +59,10 @@ For the databases portion of the final project, I applied what I learned in the 
  
 <details><summary>CLICK TO EXPAND</summary>
 <p>
+
  For Artifact One in Category One: Software Engineering/Design, I selected work done in CS320 – Software Testing, Automation and Quality Assurance, which focuses on locating and resolving software security vulnerabilities by creating secure code and testing procedures to locate issues before code implementation.   My enhancement plan included expanding the complexity of my Unit Test files created in Java and edited and implemented using Visual Studio, Terminal and XCode.  In addition, enhancements were made to the associated ContactTest.java and ContactServiceTest.java files linked to their respective java files.  This demonstrated skills learned in altering Java code to be more secure, as well as in the creation of efficient test files, created specifically for their respective java files for testing.  As seen in the Structural Model representation below, each unit test requirement has attributes and methods included which complete the process or unit test needs.
  
+
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/73085066/184496102-ebdc6e07-cc5b-4e13-9b91-6d2c6d779ba1.png">
 
 
@@ -102,7 +104,30 @@ Documentation was added for each @test to ensure other developers will understan
 <details><summary>CLICK TO EXPAND</summary>
 <p>
 For Artifact two in Category Two:  Algorithms and Data Structures, I selected work done in CS250 – Software Development LifeCycle (SDLC), which focuses on the Agile team roles and how their teamwork results in an overall rounded functional Java application where the code includes added functionality and imagery for a better user experience.  My enhancement plan includes expanding the current API complexity of my TopFiveTravelDestination.java and SlideShow.java files with added resource folder imagery to give the user a better visual experience viewing destination information through a simple GUI that is user friendly.  This was done through the enhancement of current Java code to include better code documentation to elaborate on code functionality resulting in minimal errors and a fluid transition between screens.  This demonstrates knowledge and skills gained in the use of Java coding to create simple applications that the user can easily manipulate but not corrupt.   Code was altered and tested using Java IDE, XCode application and Terminal applications for Mac.
-![StructuralModel](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/StructuralModel.png)
+
+**Narrative**
+
+The artifact is a compilation of five vacation locations displaying an image along with a description that is supposed to entice the client to go there.  The artifact includes a TopFiveDestinationList.java and SlideShow.Java file that are two variations on the same project, that implements JFrames, JLabels and JPanels along with Button Controls to assist in maneuver.  This code was initially created during the CS250 course, with the intent to help the student learn java functionality and project images and descriptions onto a structured display.
+
+The TopFiveDestinationList.java and SlideShow.Java files were selected to be included in the ePorfolio as both showed the potential to demonstrate multiple displays of code functionality for the creation of working button controls, frame and panel attributes, and the insertion of images and text using if/else loops, the addition of colored backgrounds, borders, and the conversion of these files into a runnable jar file.  Initially, the files included base code structures to allow for the insertion of images and text, with no declared variables to allow for panes and framework.  The artifact was improved by declaring these variables, initializing them, setting up frame attributes and panel layouts, adding functionality for the previous and next buttons, and adding imagery and text with code to allow them to be displayed through a method that included if/else loops.  Seen below in the artifact code section are images and code of these additions. 
+
+**Artifact II Code**
+
+The code below demonstrates the insertion of imagery and text linked to images in the resource file, using if/else statements to determine which image to display.  This is code from SlideShow.java.  The two data structures shown are used to store image and image sizing data.  This was enhanced to pull in images from the resource file and define their measurements.  These are the Methods to get the images and text.  It also links to imagery in the resource file folder.  The button code pulls back to this structure, determining which image and text to display.
+
+![image](https://user-images.githubusercontent.com/73085066/184497108-a608e49f-2950-432c-8931-f5b41d139078.png)
+
+The code below displays Previous and Next Button algorithms, along with logic that is uses to determine the image and text slides to display:
+
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/73085066/184497296-3ba037ff-c637-4c35-a711-0d772b74e344.png">
+
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/73085066/184497320-e986f9bb-a45f-4987-806f-cf8fb38cd201.png">
+
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/73085066/184497326-497f7a6d-a154-4ef0-b4fe-b13353c4feb5.png">
+
+
+The algorithm created to add each of the slides and text as seen here sets parameters for the Previous and Next buttons, adding to their functionality.  this segment of code which uses a postfix increment operator that assigns a number first then adds one to the given value incrementally.  This algorithm is then linked to the previous and next buttons which identify which number the increment operator assigned and uses that number to pull from both data structures and combine them into one slide frame. The initComponent method has this segment of code below as an algorithm which identifies which number the increment operator assigned, by using both the previous and next buttons, determine the line number to pull from both data structures and combine them into one slide frame.  Previous Button Functionality Is linked to the previous code to add functionality. It will use the increment operator to go back one number from the currently assigned one, then go back to the previous pane.
+
 </p>
 </details>
 
