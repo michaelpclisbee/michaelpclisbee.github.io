@@ -82,6 +82,7 @@ The ContactTest.java file and its associated Contact.java file were included in 
 
 -These three sections below of added code include assertThrows() methods pinpointing an error with an Illegal Argument notification under conditions 
 Documentation was added for each @test to ensure other developers will understand what was attempted here.  When modifying the artifact, I did a lot of code cross referencing online to better understand the purpose of the different assert methods, and how to implement them.  For this class, I could not access a virtual environment previously supplied by SNHU, so instead used available software such as XCode to view and alter as necessary.  As well, initial code was completed via a Windows OS, as now it was completed on a MacOS, which actually made it easier to manipulate. 
+
  
 <img width="219" alt="image" src="https://user-images.githubusercontent.com/73085066/184496216-79ffa18f-6829-444f-a05d-87684b516fad.png">
  
@@ -105,11 +106,13 @@ Documentation was added for each @test to ensure other developers will understan
 <p>
 For Artifact two in Category Two:  Algorithms and Data Structures, I selected work done in CS250 – Software Development LifeCycle (SDLC), which focuses on the Agile team roles and how their teamwork results in an overall rounded functional Java application where the code includes added functionality and imagery for a better user experience.  My enhancement plan includes expanding the current API complexity of my TopFiveTravelDestination.java and SlideShow.java files with added resource folder imagery to give the user a better visual experience viewing destination information through a simple GUI that is user friendly.  This was done through the enhancement of current Java code to include better code documentation to elaborate on code functionality resulting in minimal errors and a fluid transition between screens.  This demonstrates knowledge and skills gained in the use of Java coding to create simple applications that the user can easily manipulate but not corrupt.   Code was altered and tested using Java IDE, XCode application and Terminal applications for Mac.
 
+
 **Narrative**
 
 The artifact is a compilation of five vacation locations displaying an image along with a description that is supposed to entice the client to go there.  The artifact includes a TopFiveDestinationList.java and SlideShow.Java file that are two variations on the same project, that implements JFrames, JLabels and JPanels along with Button Controls to assist in maneuver.  This code was initially created during the CS250 course, with the intent to help the student learn java functionality and project images and descriptions onto a structured display.
 
 The TopFiveDestinationList.java and SlideShow.Java files were selected to be included in the ePorfolio as both showed the potential to demonstrate multiple displays of code functionality for the creation of working button controls, frame and panel attributes, and the insertion of images and text using if/else loops, the addition of colored backgrounds, borders, and the conversion of these files into a runnable jar file.  Initially, the files included base code structures to allow for the insertion of images and text, with no declared variables to allow for panes and framework.  The artifact was improved by declaring these variables, initializing them, setting up frame attributes and panel layouts, adding functionality for the previous and next buttons, and adding imagery and text with code to allow them to be displayed through a method that included if/else loops.  Seen below in the artifact code section are images and code of these additions. 
+
 
 **Artifact II Code**
 
@@ -186,17 +189,20 @@ The enhancements met my goals for overall improvements as it increased functiona
 When modifying the artifact, I did code referencing online to get ideas on how best to create a polished code.  I learned several ways of writing the CRUD functionality to try and cover all possible errors, as well as how detailed the dashboard code needed to be to provide any sort of functionality.  However, one of the challenges I faced was understanding certain coding aspects that would help me correct some errors that popped up.  I think that if this had a peer review element to it, having the perspective of several other developers’ opinions would go a long way towards making this program fully functional. 
 
 
-**Artifact II Code**
+**Artifact III Code**
 
 <img width="367" alt="image" src="https://user-images.githubusercontent.com/73085066/184498357-5bc97f1b-1bd9-445c-afc7-488f4698ac37.png">
 
-The aac_shelter_outcomes.csv file is central to the mission of the database program.  Here is existing data that will be either adjusted, deleted, added to, or searched through as long as the base code works as needed.  Below is an example initial and final code enhancements for the C operation for C in CRUD, to create new lines of data in the .csv file. Initial code before enhancement for Create...
+The aac_shelter_outcomes.csv file is central to the mission of the database program.  Here is existing data that will be either adjusted, deleted, added to, or searched through as long as the base code works as needed.  Below is an example initial and final code enhancements for the C operation for C in CRUD, to create new lines of data in the .csv file. Initial code before enhancement for Create
 
-![image](https://user-images.githubusercontent.com/73085066/184498406-308837a5-d399-4f17-afcd-668c9ea5537e.png)
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/73085066/184506100-02d04085-611e-4adf-8438-d92a394d90a1.png">
+
 
 Created code after enhancements that involved adding code to ensure user enters correct data fields.  The first part of the Create code collects the data, while the second part validates and inserts results, or issues Exceptions via if/else statements.
 
-![image](https://user-images.githubusercontent.com/73085066/184498451-bf53cac8-6cb6-4f16-ae77-4cea0bcdf073.png)
+
+<img width="264" alt="image" src="https://user-images.githubusercontent.com/73085066/184506136-f5947b5e-b106-42aa-aa1f-7fc5a026fafa.png">
+
 
 The following Code adds security to application by adding username and password requirements.  Still need to work out so unique passwords can be saved per username. 
 
