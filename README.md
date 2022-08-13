@@ -136,15 +136,18 @@ The algorithm created to add each of the slides and text as seen here sets param
 
 Above are examples of the results of the code, with various vacation destinations displayed, along with descriptive text, a title for the program, and functional buttons allowing the client to scan through all the slideshow pages.
 
-![image](https://user-images.githubusercontent.com/73085066/184497685-4d0cbc0e-29f3-40a4-9812-534ed985614a.png)
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/73085066/184497888-3e2b0aee-b9b3-4768-96bc-e3690765bf34.png">
+
 
 The code above shows that Eclipse IDE environment was used to enhance data structure code for the TopFiveDestinationList.java file.  This was also used to convert both java files to runnable jar files that you can open without the necessity of using an IDE or other environment. The enhancements met my goals for overall improvements as it increased functionality in several different areas as determined in the Code Review.   The objective is to identify, enhance and comment on data structures in the code and their associated algorithms. Data structures are used to store and organize data.  The identified algorithms are used to manipulate the data in their associated structures.
 
 The two data structures in the SlideShow.java file are identified as:
 
 a.  The getResizeIcon method, which is used to store image and image sizing data.  This was enhanced to pull in images from the resource file.  
-b.  The getTextDescription method, which is used to store descriptive data for each image.  
-I believe this embodies several categories of improvement, showing emerging abilities as indicators of success.  
+b.  The getTextDescription method, which is used to store descriptive data for each image. 
+
+I believe this embodies several categories of improvement, showing emerging abilities as indicators of success.
+
 The two associated algorithms in the SlideShow.java file are identified as:
 
 a.  The initComponent method has a segment of code which  uses a postfix increment operator that assigns a number first then adds one to the given value incrementally.  This algorithm is pulls from the two data structures to determine which data to pull from it and display.  
