@@ -60,7 +60,8 @@ For the databases portion of the final project, I applied what I learned in the 
 <details><summary>CLICK TO EXPAND</summary>
 <p>
  For Artifact One in Category One: Software Engineering/Design, I selected work done in CS320 – Software Testing, Automation and Quality Assurance, which focuses on locating and resolving software security vulnerabilities by creating secure code and testing procedures to locate issues before code implementation.   My enhancement plan included expanding the complexity of my Unit Test files created in Java and edited and implemented using Visual Studio, Terminal and XCode.  In addition, enhancements were made to the associated ContactTest.java and ContactServiceTest.java files linked to their respective java files.  This demonstrated skills learned in altering Java code to be more secure, as well as in the creation of efficient test files, created specifically for their respective java files for testing.  As seen in the Structural Model representation below, each unit test requirement has attributes and methods included which complete the process or unit test needs.
-![StructuralModel](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/StructuralModel.png)
+<img width="228" alt="image" src="https://user-images.githubusercontent.com/73085066/184496102-ebdc6e07-cc5b-4e13-9b91-6d2c6d779ba1.png">
+
 
 **Narrative**
 
@@ -70,14 +71,17 @@ The ContactTest.java file and its associated Contact.java file were included in 
 
 **Artifact I Code**
 
--These display constructor tests adding additional assertEquals() parameters 
+-These code snapshots below display constructor tests adding additional assertEquals() parameters 
 
 <img width="215" alt="image" src="https://user-images.githubusercontent.com/73085066/184495900-0779d16d-4a32-45c3-8c02-569c5be371c0.png">
 
 <img width="266" alt="image" src="https://user-images.githubusercontent.com/73085066/184495927-e5931d7f-d343-4c44-860a-14315a6bc728.png">
 
--These three sections above of added code include assertThrows() methods pinpointing an error with an Illegal Argument notification under conditions 
+-These three sections below of added code include assertThrows() methods pinpointing an error with an Illegal Argument notification under conditions 
 Documentation was added for each @test to ensure other developers will understand what was attempted here.  When modifying the artifact, I did a lot of code cross referencing online to better understand the purpose of the different assert methods, and how to implement them.  For this class, I could not access a virtual environment previously supplied by SNHU, so instead used available software such as XCode to view and alter as necessary.  As well, initial code was completed via a Windows OS, as now it was completed on a MacOS, which actually made it easier to manipulate. 
+<img width="219" alt="image" src="https://user-images.githubusercontent.com/73085066/184496216-79ffa18f-6829-444f-a05d-87684b516fad.png">
+<img width="218" alt="image" src="https://user-images.githubusercontent.com/73085066/184496244-7e815215-596a-4ff4-8cab-793cfb192894.png">
+<img width="209" alt="image" src="https://user-images.githubusercontent.com/73085066/184496256-200732f5-a3a6-4f64-ba81-2234d8512dc8.png">
 
 
 </p>
