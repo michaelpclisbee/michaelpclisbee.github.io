@@ -48,6 +48,8 @@ For the algorithms and data structures portion of the project, I chose to apply 
 <p>
 For the databases portion of the final project, I applied what I learned in the CS-340 Advanced Programming Concepts course and enhanced a mongoDB based database written in Python that will interface with a Node JS application. This application provides a user-friendly interface that pulls data from a central .csv file, with the objective of helping a client identify good dog candidates for search and rescue training through a dynamic dashboard web application that can be run either with MongoDB or Jupyter Notebook.  I incorporated what I learned about mongoDB and added in enhanced functionality to the password interface for added access security, and expanded coding for data creation, alteration and deletion into an existing data structure.  This incorporated additional error notifications and loops to enhance error handling.  This portion demonstrates my skills with databases, as well as my ability to use Python.
 </p>
+
+</p>
 </details>
 
 
