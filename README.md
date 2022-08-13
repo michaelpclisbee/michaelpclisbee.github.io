@@ -61,8 +61,26 @@ For the databases portion of the final project, I applied what I learned in the 
 <p>
  For Artifact One in Category One: Software Engineering/Design, I selected work done in CS320 – Software Testing, Automation and Quality Assurance, which focuses on locating and resolving software security vulnerabilities by creating secure code and testing procedures to locate issues before code implementation.   My enhancement plan included expanding the complexity of my Unit Test files created in Java and edited and implemented using Visual Studio, Terminal and XCode.  In addition, enhancements were made to the associated ContactTest.java and ContactServiceTest.java files linked to their respective java files.  This demonstrated skills learned in altering Java code to be more secure, as well as in the creation of efficient test files, created specifically for their respective java files for testing.  As seen in the Structural Model representation below, each unit test requirement has attributes and methods included which complete the process or unit test needs.
 ![StructuralModel](https://github.com/michaelpclisbee/michaelpclisbee.github.io/blob/main/StructuralModel.png)
-    
- </p>
+
+**Narrative**
+
+The artifact includes a ContactTest.java file that implements JUnit methods to test the attributes of the Contact class.  The objective is to create tests that the ID is not null, updateable, and less than or equal to 10 characters.  You would also be testing a potential client’s needs for other variables such as firstName, lastName, phoneNumber and address.  These JUnit tests can be adjusted to be used with any additional parameters needed to validate the Contact class data.  This code was initially created during the CS320 course, with the intent to help the student learn various java functionality.
+
+The ContactTest.java file and its associated Contact.java file were included in the ePorfolio as the test file code displayed the test variations that could be employed to effectively test variable combinations entered by the user.  Initially, the test file included specifically constructors that tested to ensure parameters for a new contact were asserted to have data, or a NotNull status.  The first one tested that all necessary variables were not null.  The next one tested to make sure the parameter entered matched the contactID, and that all other variables were NotNull.  This continues on testing for assertEquals() for both contactID and firstNameTest.  As the tests stopped there, I added several other assert variations such as assert.Update and assertThrows() and assertEquals() methods to validate or notify of an illegal argument.  Seen below are these additions. 
+
+**Artifact I Code**
+
+-These display constructor tests adding additional assertEquals() parameters 
+
+<img width="215" alt="image" src="https://user-images.githubusercontent.com/73085066/184495900-0779d16d-4a32-45c3-8c02-569c5be371c0.png">
+
+<img width="266" alt="image" src="https://user-images.githubusercontent.com/73085066/184495927-e5931d7f-d343-4c44-860a-14315a6bc728.png">
+
+-These three sections above of added code include assertThrows() methods pinpointing an error with an Illegal Argument notification under conditions 
+Documentation was added for each @test to ensure other developers will understand what was attempted here.  When modifying the artifact, I did a lot of code cross referencing online to better understand the purpose of the different assert methods, and how to implement them.  For this class, I could not access a virtual environment previously supplied by SNHU, so instead used available software such as XCode to view and alter as necessary.  As well, initial code was completed via a Windows OS, as now it was completed on a MacOS, which actually made it easier to manipulate. 
+
+
+</p>
 </details>
 
 
