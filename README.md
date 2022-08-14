@@ -34,7 +34,7 @@ Another concept involving SDLC, communicating with stakeholders is an integral p
 
 <p>Overall, I was introduced to Python in CS-200, CS-250 taught about Scrum, I learned testing and its importance in CS-310. I learned how to incorporate Discrete Math, Stats, Calculus, Physics, and Linear Algebra into computer science as a whole. I gained knowledge on databases and analyzing data. I learned about computational graphics and design. I now understand how to use Python, C++, Java, and other useful applications. All of these skills learned with be essential when utilizing them in my future endeavors.</p>
 
-<b>Final Portfolio Summary</b>
+# <i><b>Final Portfolio Summary</b></i>
 
 <p>For this project, I chose three artifacts that made the most educational impact on me. I selected projects that I really believe I would continue to use in my professional life after the requirements for this class were completed. From software design and testing to base algorithm coding for working data structures, and the creation of user-friendly databases centered on the client requirements, all of these artifacts fit together to create a fully rounded demonstration of skills and abilities learned throughout this program.</p>  
 
