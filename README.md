@@ -69,13 +69,13 @@ Another concept involving SDLC, communicating with stakeholders is an integral p
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/73085066/184496102-ebdc6e07-cc5b-4e13-9b91-6d2c6d779ba1.png">
 
 <p>
-<b>Narrative</b>
+### <i><b>Narrative</b></i>
 
 The artifact includes a ContactTest.java file that implements JUnit methods to test the attributes of the Contact class.  The objective is to create tests that the ID is not null, updateable, and less than or equal to 10 characters.  You would also be testing a potential client’s needs for other variables such as firstName, lastName, phoneNumber and address.  These JUnit tests can be adjusted to be used with any additional parameters needed to validate the Contact class data.  This code was initially created during the CS320 course, with the intent to help the student learn various java functionality.</p>
 
 <p>The ContactTest.java file and its associated Contact.java file were included in the ePorfolio as the test file code displayed the test variations that could be employed to effectively test variable combinations entered by the user.  Initially, the test file included specifically constructors that tested to ensure parameters for a new contact were asserted to have data, or a NotNull status.  The first one tested that all necessary variables were not null.  The next one tested to make sure the parameter entered matched the contactID, and that all other variables were NotNull.  This continues on testing for assertEquals() for both contactID and firstNameTest.  As the tests stopped there, I added several other assert variations such as assert.Update and assertThrows() and assertEquals() methods to validate or notify of an illegal argument.  Seen below are these additions.</p> 
 
-<b>Artifact I Code</b>
+### <i><b>Artifact I Code</b></i>
 
 These code snapshots below display constructor tests adding additional assertEquals() parameters 
 
