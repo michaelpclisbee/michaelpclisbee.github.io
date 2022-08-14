@@ -109,13 +109,13 @@ These code snapshots below display constructor tests adding additional assertEqu
 <p>For Artifact two in Category Two:  Algorithms and Data Structures, I selected work done in CS250 – Software Development LifeCycle (SDLC), which focuses on the Agile team roles and how their teamwork results in an overall rounded functional Java application where the code includes added functionality and imagery for a better user experience.  My enhancement plan includes expanding the current API complexity of my TopFiveTravelDestination.java and SlideShow.java files with added resource folder imagery to give the user a better visual experience viewing destination information through a simple GUI that is user friendly.  This was done through the enhancement of current Java code to include better code documentation to elaborate on code functionality resulting in minimal errors and a fluid transition between screens.  This demonstrates knowledge and skills gained in the use of Java coding to create simple applications that the user can easily manipulate but not corrupt.   Code was altered and tested using Java IDE, XCode application and Terminal applications for Mac.</p>
 
 
-<b>Narrative</b>
+### <i><b>Narrative</b></i>
 
 <p>The artifact is a compilation of five vacation locations displaying an image along with a description that is supposed to entice the client to go there.  The artifact includes a TopFiveDestinationList.java and SlideShow.Java file that are two variations on the same project, that implements JFrames, JLabels and JPanels along with Button Controls to assist in maneuver.  This code was initially created during the CS250 course, with the intent to help the student learn java functionality and project images and descriptions onto a structured display.</p>
 
 <p>The TopFiveDestinationList.java and SlideShow.Java files were selected to be included in the ePorfolio as both showed the potential to demonstrate multiple displays of code functionality for the creation of working button controls, frame and panel attributes, and the insertion of images and text using if/else loops, the addition of colored backgrounds, borders, and the conversion of these files into a runnable jar file.  Initially, the files included base code structures to allow for the insertion of images and text, with no declared variables to allow for panes and framework.  The artifact was improved by declaring these variables, initializing them, setting up frame attributes and panel layouts, adding functionality for the previous and next buttons, and adding imagery and text with code to allow them to be displayed through a method that included if/else loops.  Seen below in the artifact code section are images and code of these additions.</p> 
 
-<b>Artifact II Code</b>
+### <i><b>Artifact II Code</b></i>
 
 <p>The code below demonstrates the insertion of imagery and text linked to images in the resource file, using if/else statements to determine which image to display.  This is code from SlideShow.java.  The two data structures shown are used to store image and image sizing data.  This was enhanced to pull in images from the resource file and define their measurements.  These are the Methods to get the images and text.  It also links to imagery in the resource file folder.  The button code pulls back to this structure, determining which image and text to display.</p>
 
@@ -176,7 +176,7 @@ b.  The second associated algorithm originates from the same initComponent metho
 
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/73085066/184498191-e5cace9c-acd1-4c05-bf4f-0d566b0be59e.png">
 
-<b>Narrative</b>
+### <i><b>Narrative</b></i>
 
 <p>This artifact is an application the purpose of which is to provide a user-friendly interface to pull information from a database written in Python and powered by MongoDB, to retrieve information from animals, namely dogs, and update or alter same database.  The objective of this project is to create a database, an API and a dynamic dashboard with the dashboard a web application designed for the client to identify good dog candidates for search and rescue training. This was originally created in the CS 340 SNHU course for Advanced Programming Concepts, with minimal functionality and no security</p>
 
@@ -189,7 +189,7 @@ b.  The second associated algorithm originates from the same initComponent metho
 <p>When modifying the artifact, I did code referencing online to get ideas on how best to create a polished code.  I learned several ways of writing the CRUD functionality to try and cover all possible errors, as well as how detailed the dashboard code needed to be to provide any sort of functionality.  However, one of the challenges I faced was understanding certain coding aspects that would help me correct some errors that popped up.  I think that if this had a peer review element to it, having the perspective of several other developers’ opinions would go a long way towards making this program fully functional. </p>
 
 
-<b>Artifact III Code</b>
+### <i><b>Artifact III Code</b></i>
 
 <img width="367" alt="image" src="https://user-images.githubusercontent.com/73085066/184498357-5bc97f1b-1bd9-445c-afc7-488f4698ac37.png">
 
