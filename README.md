@@ -151,8 +151,9 @@ Another concept involving SDLC, communicating with stakeholders is an integral p
 
 
 <p>The code above shows that Eclipse IDE environment was used to enhance data structure code for the TopFiveDestinationList.java file.  This was also used to convert both java files to runnable jar files that you can open without the necessity of using an IDE or other environment. The enhancements met my goals for overall improvements as it increased functionality in several different areas as determined in the Code Review.   The objective is to identify, enhance and comment on data structures in the code and their associated algorithms. Data structures are used to store and organize data.  The identified algorithms are used to manipulate the data in their associated structures.</p>
+<br>
 
-The two data structures in the SlideShow.java file are identified as:
+<p>The two data structures in the SlideShow.java file are identified as:
 
 a.  The getResizeIcon method, which is used to store image and image sizing data.  This was enhanced to pull in images from the resource file.  
 b.  The getTextDescription method, which is used to store descriptive data for each image. 
@@ -162,7 +163,8 @@ I believe this embodies several categories of improvement, showing emerging abil
 The two associated algorithms in the SlideShow.java file are identified as:
 
 a.  The initComponent method has a segment of code which  uses a postfix increment operator that assigns a number first then adds one to the given value incrementally.  This algorithm is pulls from the two data structures to determine which data to pull from it and display.  
-b.  The second associated algorithm originates from the same initComponent method, where the code has the button action identify which number the increment operator assigned, and uses that to pull from both data structures and combine them into one slide frame. The button algorithm will determine whether to subtract one number from the postfix increment operator or add one number, depending on the button activated, then go to the next or previous slide and text pane.
+b.  The second associated algorithm originates from the same initComponent method, where the code has the button action identify which number the increment operator assigned, and uses that to pull from both data structures and combine them into one slide frame. The button algorithm will determine whether to subtract one number from the postfix increment operator or add one number, depending on the button activated, then go to the next or previous slide and text pane.</p>
+<br>
 
 <p>When modifying the artifact, I once again did a lot of code cross referencing online through stackoverflow.com and other sites to better understand the purpose of the different assert methods, and how to implement them.  I understand these sites give examples of code that are not necessarily correct, so code I used needed to be adjusted to be functional.  This was a great learning tool for me.  However, code used in the Slideshow.java file was more functional than its counterpart TopFiveDestinationList.java, but I have included both files to demonstrate the differences in workable functionality.  For this class, I could not access a virtual environment previously supplied by SNHU, so instead again used available software such as XCode to view and alter as necessary.  This code was then placed into a downloaded version of Eclipse IDE for Mac, where I could further alter code, then create a runnable jar file in addition to the saved java file.</p>
 
