@@ -79,7 +79,7 @@ Another concept involving SDLC, communicating with stakeholders is an integral p
 
 <i><b>Artifact I Code</b></i>
 
-These code snapshots below display constructor tests adding additional assertEquals() parameters 
+<p>These code snapshots below display constructor tests adding additional assertEquals() parameters</p>
 
 <img width="215" alt="image" src="https://user-images.githubusercontent.com/73085066/184495900-0779d16d-4a32-45c3-8c02-569c5be371c0.png">
 
@@ -192,7 +192,7 @@ b.  The second associated algorithm originates from the same initComponent metho
 <p>When modifying the artifact, I did code referencing online to get ideas on how best to create a polished code.  I learned several ways of writing the CRUD functionality to try and cover all possible errors, as well as how detailed the dashboard code needed to be to provide any sort of functionality.  However, one of the challenges I faced was understanding certain coding aspects that would help me correct some errors that popped up.  I think that if this had a peer review element to it, having the perspective of several other developers’ opinions would go a long way towards making this program fully functional. </p>
 
 
-<i><b>Artifact III Code</b></i>
+<p><i><b>Artifact III Code</b></i></p>
 
 <img width="367" alt="image" src="https://user-images.githubusercontent.com/73085066/184498357-5bc97f1b-1bd9-445c-afc7-488f4698ac37.png">
 
