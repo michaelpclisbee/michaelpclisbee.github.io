@@ -63,11 +63,12 @@ Another concept involving SDLC, communicating with stakeholders is an integral p
 <details><summary>CLICK TO EXPAND</summary>
 
 
-<p>For Artifact One in Category One: Software Engineering/Design, I selected work done in CS320 – Software Testing, Automation and Quality Assurance, which focuses on locating and resolving software security vulnerabilities by creating secure code and testing procedures to locate issues before code implementation.   My enhancement plan included expanding the complexity of my Unit Test files created in Java and edited and implemented using Visual Studio, Terminal and XCode.  In addition, enhancements were made to the associated ContactTest.java and ContactServiceTest.java files linked to their respective java files.  This demonstrated skills learned in altering Java code to be more secure, as well as in the creation of efficient test files, created specifically for their respective java files for testing.  As seen in the Structural Model representation below, each unit test requirement has attributes and methods included which complete the process or unit test needs.</p>
+<p>For Artifact One in Category One: Software Engineering/Design, I selected work done in CS320 – Software Testing, Automation and Quality Assurance, which focuses on locating and resolving software security vulnerabilities by creating secure code and testing procedures to locate issues before code implementation.   My enhancement plan included expanding the complexity of my Unit Test files created in Java and edited and implemented using Visual Studio, Terminal and XCode.  In addition, enhancements were made to the associated ContactTest.java and ContactServiceTest.java files linked to their respective java files.  This demonstrated skills learned in altering Java code to be more secure, as well as in the creation of efficient test files, created specifically for their respective java files for testing. </p>
  
 
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/73085066/184496102-ebdc6e07-cc5b-4e13-9b91-6d2c6d779ba1.png">
 
+<p>As seen in the Structural Model representation above, each unit test requirement has attributes and methods included which complete the process or unit test needs.</p>
 
 <i><b>Narrative</b></i>
 
@@ -172,9 +173,11 @@ b.  The second associated algorithm originates from the same initComponent metho
 
 <details><summary>CLICK TO EXPAND</summary>
 
-<p>For Artifact three in Category Three:  Databases, I will select work done in CS340 – Advanced Programming Concepts in Client/Server Development.  For this course I initially created a dynamic dashboard linking several databases in the Jupyter Notebook using .csv, .py, and .ipynb Python and Javascript language files in MongoDB.  The key databases to be used will be ProjectTwoDashboard.ipynb and Animal_App.py, with a aac_shelter_outcomes.csv file.  The objective is to apply database systems concepts and principles to create a client/server database application that interfaces with client-side code.  This will pull data to display geo-mapping, statistics, and other user data from a database powered by MongDB.  My enhancement plan will include expanding on the current MongoDB API (application programming interface) via JavaScript to make it more user friendly, as well as provide more selection options through improving on my current project code.  This includes enhancing CRUD (create, read, update, delete) elements of my code.  This will demonstrate skills learned in Python code when creating user interfaces and efficient CRUD implementation.  As shown below in the Behavior Model, the database will be improved upon to have more input options which in turn will have more varied results.</p>
+<p>For Artifact three in Category Three:  Databases, I will select work done in CS340 – Advanced Programming Concepts in Client/Server Development.  For this course I initially created a dynamic dashboard linking several databases in the Jupyter Notebook using .csv, .py, and .ipynb Python and Javascript language files in MongoDB.  The key databases to be used will be ProjectTwoDashboard.ipynb and Animal_App.py, with a aac_shelter_outcomes.csv file.  The objective is to apply database systems concepts and principles to create a client/server database application that interfaces with client-side code.  This will pull data to display geo-mapping, statistics, and other user data from a database powered by MongDB.  My enhancement plan will include expanding on the current MongoDB API (application programming interface) via JavaScript to make it more user friendly, as well as provide more selection options through improving on my current project code.  This includes enhancing CRUD (create, read, update, delete) elements of my code.  This will demonstrate skills learned in Python code when creating user interfaces and efficient CRUD implementation. </p>
 
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/73085066/184498191-e5cace9c-acd1-4c05-bf4f-0d566b0be59e.png">
+
+<p>As shown below in the Behavior Model above, the database will be improved upon to have more input options which in turn will have more varied results.</p>
 
 <i><b>Narrative</b></i>
 
