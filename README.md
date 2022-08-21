@@ -37,6 +37,17 @@ Another concept involving SDLC, communicating with stakeholders is an integral p
 <i><b>Final Portfolio Summary</b></i>
 
 <p>For this project, I chose three artifacts that made the most educational impact on me. I selected projects that I really believe I would continue to use in my professional life after the requirements for this class were completed. From software design and testing to base algorithm coding for working data structures, and the creation of user-friendly databases centered on the client requirements, all of these artifacts fit together to create a fully rounded demonstration of skills and abilities learned throughout this program.</p>  
+<br>
+<p>
+In summary, through the enhancement of three key artifacts, I achieved the following outcomes:
+1.	 I employed strategies for building collaborative environments that enabled diverse audiences to support organizational decision making in the field of computer science.    This was achieved in my portfolio in Artifact 
+2.	I designed, developed, and delivered professional-quality oral, written, and visual communication that were coherent, technically sound, and appropriately adapted to specific audiences and contexts.  This was achieved in my portfolio in Artifact 
+3.	I designed and evaluated computing solutions that solved a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trad-offs involved in design choices.  This was achieved in my portfolio in Artifact
+4.	I demonstrated an ability to use well founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.  This was achieved in my portfolio in Artifact
+5.	I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by completing specific enhancements.  This was achieved in my portfolio in Artifact 
+
+
+</p>
 
 <p>For the software design and engineering portion of the project, I applied what I learned in CS-320 Software Testing, Automation and Quality Assurance.   This centered around testing automated coding ion Javascript with adequate error handling through JUnit tests. To accomplish this, I took the skills that I learned in CS-320 and applied additional testing methods to include assertEquals, assertThrows and assertUpdate, as well as adding constructor variations that effectively test variable combinations entered by the user. This portion demonstrates my skills in software design and engineering by expanding the complexity of my error handling to cover a wide range of outcomes using Javascript.</p>
 
@@ -181,7 +192,8 @@ The two associated algorithms in the SlideShow.java file are identified as:
 
 <details><summary>CLICK TO EXPAND</summary>
 
-<p>For Artifact three in Category Three:  Databases, I will select work done in CS340 – Advanced Programming Concepts in Client/Server Development.  For this course I initially created a dynamic dashboard linking several databases in the Jupyter Notebook using .csv, .py, and .ipynb Python and Javascript language files in MongoDB.  The key databases to be used will be ProjectTwoDashboard.ipynb and Animal_App.py, with a aac_shelter_outcomes.csv file.  The objective is to apply database systems concepts and principles to create a client/server database application that interfaces with client-side code.  This will pull data to display geo-mapping, statistics, and other user data from a database powered by MongDB.  My enhancement plan will include expanding on the current MongoDB API (application programming interface) via JavaScript to make it more user friendly, as well as provide more selection options through improving on my current project code.  This includes enhancing CRUD (create, read, update, delete) elements of my code.  This will demonstrate skills learned in Python code when creating user interfaces and efficient CRUD implementation. </p>
+<p>For Artifact three in Category Three: Databases, I selected work done in CS340 – Advanced Programming Concepts in Client/Server Development. For this course created a dynamic dashboard linking several databases in the Jupyter Notebook using .csv, .py, and .ipynb Python and Javascript language files in MongoDB. The key databases used were ProjectTwoDashboard.ipynb and Animal_App.py, with a aac_shelter_outcomes.csv file. The objective was to apply database systems concepts and principles to create a client/server database application that interfaces with client-side code. This code pulled data to display geo-mapping, statistics, and other user data from a database powered by MongoDB. My enhancement plan included expanding on the current MongoDB API (application programming interface) via JavaScript to make it more user friendly, as well as providing more selection options through improving on the current code. This included enhancing CRUD (create, read, update, delete) elements of my code. 
+ </p>
 
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/73085066/184498191-e5cace9c-acd1-4c05-bf4f-0d566b0be59e.png">
 
@@ -195,11 +207,14 @@ The two associated algorithms in the SlideShow.java file are identified as:
 
 <p>This project can be used to query MongoDB by creating and reading data from MongoDB.  For the purposes of this milestone, it was altered and run via Jupyter Notebook, as well as the XCode application.  Jupyter Notebook was accessed for Mac via the Anaconda.Navigator application.</p>  
 
-<p>This artifact was selected to represent Category 3:  Databases, as it represents what a fully structured database and its code can do, from an effective API and a base data file to CRUD functionality that enables the creation, readability, update capability and delete functionality, all of which are essential in creating a functional database.  Some specific components that showcase skills learned would include enhancements to the password interface for added security, expanded coding for data creation and insertion into existing .csv file, expanded search functions in the ReadData operation to effectively search for existing data and display it, expanded update operations with easy to understand input keys to include error notifications and if/else loops, and delete functionality to include error notifications and if/else loops to eliminate  existing data.</p>
+<p>This artifact represents what a fully structured database and its code can do, from an effective API and a base data file to CRUD functionality that enables the creation, readability, update capability and delete functionality, all of which are essential in creating a functional database.  Some specific enhancements included additions to the password interface for added security, expanded coding for data creation and insertion into existing .csv file, expanded search functions in the ReadData operation to effectively search for existing data and display it, expanded update operations with easy-to-understand input keys to include error notifications and if/else loops, and delete functionality to include error notifications and if/else loops to eliminate existing data.
+</p>
 
-<p>The enhancements met my goals for overall improvements as it increased functionality in several different areas as determined in the Code Review.   The objective for this milestone is to identify, enhance and comment on the database elements and structures involved with maintaining and updating it.  My goal was to make it an entirely functional database, but am still working on the unique password to username coding as well as the visual displays which are not populating due to minor coding errors.</p>
+<p>The enhancements increased functionality in several different areas as determined in the Code Review.   When modifying the artifact, I did code referencing online to get ideas on how best to create a polished code.  I learned several ways of writing the CRUD functionality to try and cover all possible errors, as well as how detailed the dashboard code needed to be to provide any sort of functionality. 
+</p>
 
-<p>When modifying the artifact, I did code referencing online to get ideas on how best to create a polished code.  I learned several ways of writing the CRUD functionality to try and cover all possible errors, as well as how detailed the dashboard code needed to be to provide any sort of functionality.  However, one of the challenges I faced was understanding certain coding aspects that would help me correct some errors that popped up.  I think that if this had a peer review element to it, having the perspective of several other developers’ opinions would go a long way towards making this program fully functional. </p>
+<p>When modifying the artifact, I once again did a lot of code cross referencing online through stackoverflow.com and other sites to better understand the purpose of the different assert methods, and how to implement them. I used available software such as XCode to view and alter as necessary. This code was then placed into a downloaded version of Eclipse IDE for Mac, where I could further alter code, then create a runnable jar file in addition to the saved java file.
+ </p>
 
 <br>
 
@@ -235,7 +250,8 @@ The two associated algorithms in the SlideShow.java file are identified as:
 
 
 ## [ePortfolio Summary](#Introduction)
-By fulfilling my enhancement plans, i will demonstrate skills learned in the languages of Java and Python that I would apply toward improving on my current code and using that knowledge to improve on the various API the code is controlling.  Namely the ability to create effective test files for their respective java files to ensure they function correctly.  As well, creating detailed CRUD functionality, adding Create, Read, Update and Delete functionality with safeguards included.  The only limitations I can see would be the lack of full expert knowledge in these languages which will hinder the code from being as expansive as it should be.  As well, if how are each of these to be demonstrated or presented in the GitHub site without access to specific applications.  They are not stand-alone apps and have to be run within their associated programs.  The only thing that will be viewed would be the source code itself.  
+By fulfilling my enhancement plans, I demonstrated skills learned in the languages of Java and Python that I can apply toward improving existing code.  Namely the ability to create effective test files for their respective java files to ensure they function correctly.  As well, creating detailed CRUD functionality, adding Create, Read, Update and Delete functionality with safeguards included.  
+
 
 
 
